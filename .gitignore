@@ -1,0 +1,5 @@
+cookbooks
+*.deb
+*.tgz
+*.tar.gz
+*.bz2

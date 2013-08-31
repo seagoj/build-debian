@@ -1,0 +1,4 @@
+{
+    "apt": "git://github.com/seagoj/cookbook-apt.git",
+    "build-debian" : "git://github.com/seagoj/cookbook-build-debian.git"
+}

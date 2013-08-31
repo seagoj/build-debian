@@ -1,0 +1,9 @@
+[
+    "bison",
+    "libxml2",
+    "libxml2-dev",
+    "libcurl3",
+    "libcurl4-gnutls-dev",
+    "libmagic-dev",
+    "curl"
+]
